@@ -1,16 +1,17 @@
-Java Code Styles
+Android Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
 
+即刻 IntelliJ IDEA / Android Studio code style 配置库。
+主要参考 Square 的配置项，并参考即刻情况做细节改动。
+初期先在小宇宙项目上应用，之后可能推广到其他项目。
 
 Installation
 ------------
 
- * On Unix, run the `install.sh` script. Windows users should use `install.bat` instead.
- * Restart IntelliJ if it's running.
- * Open IntelliJ Project Settings -> Code Styles, change the code style for the
-   project to the one you want.
+ * 在 Unix / MacOS 系统上, 运行 `install.sh` 脚本。在 Windows 系统上, 运行 `install.bat`。
+ * 重启 IntelliJ / Android Studio。
+ * 打开 IntelliJ / Android Studio 中的 Preferences -> Code Styles, 修改 code style 为 Jike 或 JikeAndroid, 并保存。
 
 
 License
