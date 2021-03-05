@@ -11,7 +11,7 @@ Installation
 
  * 在 Unix / MacOS 系统上, 运行 `install.sh` 脚本。在 Windows 系统上, 运行 `install.bat`。
  * 重启 IntelliJ / Android Studio。
- * 打开 IntelliJ / Android Studio 中的 Preferences -> Code Styles, 修改 code style 为 Jike 或 JikeAndroid, 并保存。
+ * 打开 IntelliJ / Android Studio 中的 Preferences -> Editor -> Code Style, 修改 code style 为 Jike 或 JikeAndroid, 并保存。
 
 
 License
